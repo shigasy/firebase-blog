@@ -19,7 +19,7 @@
     "firebase": "^5.7.0",
     "htmlspecialchars": "^1.0.5",
     "node-gyp": "^6.1.0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "nodemon": "^1.11.0",
